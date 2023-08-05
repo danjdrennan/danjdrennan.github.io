@@ -8,7 +8,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: jekyll-theme-minima
+theme: minima
 title: danjdrennan Home
 description: Statistics, ML, and reproducible software
 
