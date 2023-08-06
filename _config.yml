@@ -9,6 +9,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: minima
-title: danjdrennan Home
+title: Home
 description: Statistics, ML, and reproducible software
 
