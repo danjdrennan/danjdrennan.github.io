@@ -14,6 +14,13 @@ Group in the John A. Paulson School of Engineering and Applied Sciences at
 Harvard University. Additional experiences include research in remote sensing
 and mapping. I am also a proud veteran of the US Army.
 
+<nav>
+  <ul>
+   <li><a href="/">Home</a></li>
+   <li><a href="/posts.html">All Posts</a></li> <!-- Add this line -->
+  </ul>
+</nav>
+
 ## Latest Blog Posts
 
 {% for post in site.posts %}
