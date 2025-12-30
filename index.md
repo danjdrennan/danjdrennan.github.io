@@ -4,15 +4,17 @@ layout: default
 
 # About Me
 
-I am a PhD student in Statistics at Texas A&M University, supervised by
-Matthias Katzfuss. My interests include spatial statistics, computer surrogate
-models, uncertainty quantification, and the statistical aspects of machine
-learning.
+I am a fifth year PhD student in Statistics at Texas A&M University, supervised
+by Matthias Katzfuss (University of Wisconsin) and Toryn Schafer (Texas A&M). I
+am interested in spatial statistics, emulator models, scientific ML, and
+reinforcement learning applied to sequential optimization or behavior modeling.
 
-Prior to joining the department I was a lab manager for the Disease Biophysics
-Group in the John A. Paulson School of Engineering and Applied Sciences at
-Harvard University. Additional experiences include research in remote sensing
-and mapping. I am also a proud veteran of the US Army.
+Previously I was a lab manager in the Disease Biophysics Group in the John A.
+Paulson School of Engineering and Applied Sciences at Harvard University. I am a
+proud US Army veteran, honorably discharged from the 101st Airborne Division
+(Air Assault!). Additional experience includes land surveying and supporting
+spatiotemporal vegetation mapping using small unmanned aircraft systems on
+Lousiana barrier islands.
 
 ## Latest Blog Posts
 
