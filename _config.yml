@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: danjdrennan.github.io
+source: .
 incremental: false
 highlighter: rouge
 gist:
@@ -17,3 +17,9 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+exclude:
+  - drafts
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - README.md
